@@ -60,6 +60,10 @@
   <img src="https://www.svgrepo.com/show/475668/photoshop-color.svg" title="Photoshop" **alt="Photoshop" width="45" height="45"/>
 </div>
 
+### My Github Stats :
+
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=poltoratskyi&hide=c%23" alt="Language used" />
+ 
 ---
 
 <div align="center">
