@@ -27,7 +27,6 @@
 
 - :man_technologist: I am a Front-end developer looking for new experiences and professional growth.
 - :electron: I am currently actively learning React/TypeScript to improve my development skills.
-- :books: In my free time, I enjoy reading information security books as well as active spending time.
 - :mortar_board: Holder of a JavaScript certification, showcasing proficiency in fundamental web development.
 
  <details>
