@@ -49,15 +49,16 @@
 <div>
   <img src="https://www.svgrepo.com/show/349402/html5.svg" title="HTML5" alt="HTML" width="45" height="45"/>
   <img src="https://www.svgrepo.com/show/349330/css3.svg"  title="CSS3" alt="CSS" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/349502/sass.svg" title="Sass" **alt="Sass" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/349502/sass.svg" title="Sass" alt="Sass" width="45" height="45"/>
   <img src="https://www.svgrepo.com/show/355081/js.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>
   <img src="https://www.svgrepo.com/show/452242/jquery.svg" title="Jquery" alt="Jquery" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/354259/react.svg" title="React" **alt="React" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/354259/react.svg" title="React" alt="React" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" title="Redux Toolkit" alt=Redux width="45" height="45"/>
   <img src="https://www.svgrepo.com/show/354007/lodash.svg" title="Lodash" alt="Lodash" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Git" **alt="Git" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" title="Gulp" **alt="Gulp" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/354987/figma.svg" title="Figma" **alt="Figma" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/475668/photoshop-color.svg" title="Photoshop" **alt="Photoshop" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Git" alt="Git" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" title="Gulp" alt="Gulp" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/354987/figma.svg" title="Figma" alt="Figma" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/475668/photoshop-color.svg" title="Photoshop" alt="Photoshop" width="45" height="45"/>
 </div>
 
 ### My Github Stats :
