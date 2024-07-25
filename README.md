@@ -26,7 +26,6 @@
 ### About Me :
 
 - :man_technologist: I am a Front-end developer looking for new experiences and professional growth.
-- :electron: I am currently actively learning React/TypeScript to improve my development skills.
 - :mortar_board: Holder of a JavaScript certification, showcasing proficiency in fundamental web development.
 
  <details>
