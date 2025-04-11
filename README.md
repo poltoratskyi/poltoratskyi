@@ -73,9 +73,11 @@
 ### How to reach me :
 
 <details>
-  <summary>Email</summary>
-  [poltoratskyialexander@gmail.com](mailto:poltoratskyialexander@gmail.com)
-</details>
+  <summary>Email </summary>
+ </br>
+   
+  poltoratskyialexander@gmail.com
+ </details>
 
 <details>
   <summary>SimpleX Chat</summary>
