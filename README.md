@@ -59,6 +59,10 @@
   <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" title="Gulp (Optional)" alt="Gulp" width="45" height="45"/>
 </div>
 
+</br>
+
+<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=poltoratskyi&hide=c%23" alt="Language used" />
+
 ---
 
 ### Certification
