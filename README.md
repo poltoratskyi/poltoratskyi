@@ -9,17 +9,17 @@
 
 ### Navigation
 
-- [Development Stack](#development-stack-)
-- [Backend & Databases](#backend--databases-)
-- [State Management](#state-management-)
-- [Design](#design-)
-- [Other Experience](#other-experience-)
-- [Certification](#certification-)
-- [How to reach me](#how-to-reach-me-)
+- [Development Stack](#development-stack)
+- [Backend & Databases](#backend--databases)
+- [State Management](#state-management)
+- [Design](#design)
+- [Other Experience](#other-experience)
+- [Certification](#certification)
+- [How to reach me](#how-to-reach-me)
 
 ---
 
-### Development Stack :
+### Development Stack
 
 <div>
   <img src="https://www.svgrepo.com/show/349402/html5.svg" title="HTML5" alt="HTML" width="45" height="45"/>
@@ -31,27 +31,27 @@
   <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/>
 </div>
 
-### Backend & Databases :
+### Backend & Databases
 
 <div> 
   <img src="https://www.svgrepo.com/show/354210/prisma.svg" title="Prisma" alt="Prisma" width="45" height="45"/> 
 </div>
 
-### State Management :
+### State Management
 
 <div> 
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" title="Zustand" alt="Zustand" width="45" height="45"/> 
   <img src="https://www.svgrepo.com/show/452093/redux.svg" title="Redux Toolkit" alt="Redux" width="45" height="45"/> 
 </div>
 
-### Design :
+### Design
 
 <div> 
   <img src="https://www.svgrepo.com/show/354987/figma.svg" title="Figma" alt="Figma" width="45" height="45"/>
   <img src="https://www.svgrepo.com/show/475668/photoshop-color.svg" title="Photoshop" alt="Photoshop" width="45" height="45"/>
 </div>
 
-### Other Experience :
+### Other Experience
 
 <div> 
   <img src="https://www.svgrepo.com/show/452242/jquery.svg" title="JQuery (Optional)" alt="JQuery" width="45" height="45"/>
@@ -61,7 +61,7 @@
 
 ---
 
-### Certification :
+### Certification
 
 <details>
   <summary>Click to view JS certification</summary>
@@ -70,7 +70,7 @@
   </div>
 </details>
 
-### How to reach me :
+### How to reach me
 
 <details>
   <summary>Email </summary>
